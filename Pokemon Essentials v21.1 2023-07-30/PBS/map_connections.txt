@@ -24,8 +24,6 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
-# Route 1 (32) - Foso Sombrio (22)
-32,West,0,22,East,0
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
@@ -40,3 +38,7 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
+# Foso Sombrio (22) - Route 1 (32)
+22,East,2,32,West,0
+# Ermitaño (33) - Route 1 (32)
+33,West,0,32,East,4
