@@ -38,15 +38,17 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route 1 (32) - Ermitaño (33)
-32,East,3,33,West,0
-# Route 2 (42) - Ermitaño (33)
-42,South,0,33,North,0
-# Arboles (43) - Ermitaño (33)
-43,East,50,33,West,0
-# Foso Sombrio (22) - Route 1 (32)
-22,East,2,32,West,0
-# Route 2 (42) - Route 1 (32)
-42,West,67,32,East,0
+# Route 1 (32) - Route 2 (42)
+32,East,0,42,West,67
+# Ermitaño (33) - Route 2 (42)
+33,North,0,42,South,0
 # Arboles (43) - Route 2 (42)
 43,East,0,42,West,20
+# Entrada Ciudad (48) - Route 2 (42)
+48,West,0,42,East,18
+# Foso Sombrio (22) - Route 1 (32)
+22,East,2,32,West,0
+# Ermitaño (33) - Route 1 (32)
+33,West,0,32,East,3
+# Arboles (43) - Ermitaño (33)
+43,East,50,33,West,0
