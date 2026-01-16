@@ -40,6 +40,8 @@
 69,North,0,66,South,10
 # Entrada Ciudad (48) - Ciudad Verdenta  (77)
 48,East,0,77,West,6
+# Ruta 3 (81) - Ciudad Verdenta  (77)
+81,East,64,77,West,0
 # Arboles 1 (76) - Ciudad Verdenta  (77)
 76,North,0,77,South,0
 # Arboles 2 (78) - Ciudad Verdenta  (77)
@@ -50,6 +52,8 @@
 79,West,0,77,East,0
 # Route 2 (42) - Entrada Ciudad (48)
 42,East,18,48,West,0
+# Ruta 3 (81) - Entrada Ciudad (48)
+81,South,0,48,North,0
 # Arboles 1 (76) - Entrada Ciudad (48)
 76,West,0,48,East,44
 # Arboles 2 (78) - Entrada Ciudad (48)
@@ -62,12 +66,20 @@
 33,North,0,42,South,0
 # Arboles (43) - Route 2 (42)
 43,East,0,42,West,18
+# Ruta 3 (81) - Route 2 (42)
+81,West,52,42,East,0
 # Foso Sombrio (22) - Route 1 (32)
 22,East,2,32,West,0
 # Ermitaño (33) - Route 1 (32)
 33,West,0,32,East,3
 # Arboles (43) - Ermitaño (33)
 43,East,52,33,West,0
+# Ruta 3 (81) - Arboles (43)
+81,South,0,43,North,61
+# Arboles 1 (76) - Ruta 3 (81)
+76,West,0,81,East,114
+# Arboles 4 (80) - Ruta 3 (81)
+80,West,0,81,East,49
 # Arboles 2 (78) - Arboles 1 (76)
 78,East,14,76,West,0
 # Arboles 3 (79) - Arboles 1 (76)
