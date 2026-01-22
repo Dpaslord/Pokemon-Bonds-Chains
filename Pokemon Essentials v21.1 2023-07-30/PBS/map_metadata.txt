@@ -241,6 +241,9 @@ BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
 #-------------------------------
+[048]   # Entrada Ciudad
+Name = Entrada Ciudad
+#-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
 Bicycle = true
@@ -402,3 +405,6 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[076]   # Arboles 1
+Name = Arboles 1
