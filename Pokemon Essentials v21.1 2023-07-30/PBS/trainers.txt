@@ -116,3 +116,36 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[YOUNGSTER,Kevin]
+LoseText = Whoa! My Rattata couldn't do a thing!
+Pokemon = RATTATA,4
+#-------------------------------
+[LASS,Elena]
+LoseText = Oh! My poor Pokémon!
+Pokemon = PIDGEY,5
+#-------------------------------
+[BUGCATCHER,Tito]
+LoseText = Ugh! I hate losing to such a rookie.
+Pokemon = CATERPIE,6
+#-------------------------------
+[YOUNGSTER,Javi]
+LoseText = Unbelievable! You actually beat me.
+Pokemon = SENTRET,7
+Pokemon = RATTATA,8
+#-------------------------------
+[BUGCATCHER,Hugo]
+LoseText = My bugs need a lot more training...
+Pokemon = WEEDLE,8
+Pokemon = KAKUNA,9
+#-------------------------------
+[LASS,Marta]
+LoseText = I'm speechless! You're quite good!
+Pokemon = PIDGEY,9
+Pokemon = DIGLETT,10
+#-------------------------------
+[PROYOUNGSTER,Cameron]
+LoseText = Aww, you beat me!
+Pokemon = CHIMCHAR,8
+	Shiny = yes
+Pokemon = SENTRET,6
