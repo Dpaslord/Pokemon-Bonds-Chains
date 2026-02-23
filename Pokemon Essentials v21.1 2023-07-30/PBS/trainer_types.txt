@@ -399,3 +399,12 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[PROYOUNGSTER]
+Name = Pro Youngster
+Gender = Male
+BaseMoney = 100
+SkillLevel = 100
+IntroBGM = HGSS 117 Trainers_ Eyes Meet (Youngster)
+BattleBGM = ORAS 017 Battle! (Trainer Battle)
+VictoryBGM = ORAS 018 Victory! (Trainer Battle)
