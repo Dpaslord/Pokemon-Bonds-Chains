@@ -23079,3 +23079,137 @@ Category = King
 Pokedex = Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.
 Generation = 8
 Flags = Legendary
+#-------------------------------
+[LEAFELIS]
+Name = Leafelis
+Types = GRASS,FAIRY
+BaseStats = 65,60,70,85,85,65
+Abilities = OVERGROW
+HiddenAbility = CHLOROPHYLL
+BaseExp = 62
+CatchRate = 45
+Happiness = 70
+Height = 0.4
+Weight = 6.0
+Color = Green
+Habitat = Forest
+Shape = Quadruped
+EggGroups = Field,Grass
+StepsToHatch = 5120
+EffortPoints = 0,0,0,0,1,0
+Moves = 1,TACKLE,1,GROWL,6,LEAFAGE,9,LEECHSEED,12,RAZORLEAF,17,MAGICALLEAF
+#-------------------------------
+[FENECHO]
+Name = Fenecho
+Types = FIRE,DARK
+BaseStats = 50,75,45,100,50,90
+Abilities = BLAZE
+HiddenAbility = FLASHFIRE
+BaseExp = 62
+CatchRate = 45
+Happiness = 70
+Height = 0.5
+Weight = 8.5
+Color = Red
+Habitat = Grassland
+Shape = Quadruped
+EggGroups = Field
+StepsToHatch = 5120
+EffortPoints = 0,0,0,1,0,0
+Moves = 1,SCRATCH,1,TAILWHIP,6,EMBER,10,PURSUIT,14,FLAMEWHEEL,19,BITE
+#-------------------------------
+[VENOLASH]
+Name = Venolash
+Types = WATER,POISON
+BaseStats = 60,65,60,95,75,55
+Abilities = TORRENT
+HiddenAbility = POISONPOINT
+BaseExp = 62
+CatchRate = 45
+Happiness = 70
+Height = 0.6
+Weight = 12.0
+Color = Blue
+Habitat = WatersEdge
+Shape = BipedalTail
+EggGroups = Water1,Dragon
+StepsToHatch = 5120
+EffortPoints = 0,0,0,0,1,0
+Moves = 1,POISONSTING,1,WATERGUN,7,WITHDRAW,11,ACID,15,WATERPULSE,20,TOXIC
+#-------------------------------
+[MAGIBONE]
+Name = Magibone
+Types = WATER,GHOST
+BaseStats = 30,20,55,80,25,15
+Abilities = SWIFTSWIM,CURSEDBODY
+HiddenAbility = RATTLED
+BaseExp = 40
+CatchRate = 255
+Happiness = 70
+Height = 0.9
+Weight = 10.0
+Color = Blue
+Habitat = WatersEdge
+Shape = Finned
+EggGroups = Water2,Dragon
+StepsToHatch = 1280
+EffortPoints = 0,0,0,0,0,1
+Moves = 1,SPLASH,1,ASTONISH,15,TACKLE,25,FLAIL,35,SHADOWBALL
+Evolutions = GYARABONE,Level,20
+#-------------------------------
+[GYARABONE]
+Name = Gyarabone
+Types = WATER,GHOST
+BaseStats = 95,125,79,81,60,100
+Abilities = INTIMIDATE,CURSEDBODY
+HiddenAbility = MOXIE
+BaseExp = 189
+CatchRate = 45
+Happiness = 70
+Height = 6.5
+Weight = 235.0
+Color = White
+Habitat = WatersEdge
+Shape = Serpentine
+EggGroups = Water2,Dragon
+StepsToHatch = 1280
+EffortPoints = 0,2,0,0,0,0
+Moves = 1,BITE,1,NIGHTSHADE,21,LEER,24,TWISTER,27,CONFUSERAY,30,SCARYFACE,33,DRAGONDANCE,36,SHADOWPUNCH,39,AQUATAIL,42,SHADOWBALL,45,HYDROPUMP,48,PHANTOMFORCE
+#-------------------------------
+[SPIRALAMP]
+Name = Spiralamp
+Types = ELECTRIC
+BaseStats = 55,40,50,95,65,110
+Abilities = STATIC,VOLTABSORB
+HiddenAbility = MOTORDRIVE
+BaseExp = 70
+CatchRate = 190
+Happiness = 70
+Height = 0.6
+Weight = 15.0
+Color = Yellow
+Habitat = Grassland
+Shape = Quadruped
+EggGroups = Field
+StepsToHatch = 5120
+EffortPoints = 0,0,0,0,1,0
+Moves = 1,TACKLE,1,THUNDERSHOCK,5,TAILWHIP,10,CHARGE,13,SPARK,18,SWIFT,23,ELECTROBALL,28,THUNDERWAVE
+#-------------------------------
+[GRIMAPE]
+Name = Grimape
+Types = FIGHTING,DARK
+BaseStats = 70,110,65,105,60,95
+Abilities = IRONFIST,RECKLESS
+HiddenAbility = MOXIE
+BaseExp = 142
+CatchRate = 45
+Happiness = 70
+Height = 0.9
+Weight = 28.0
+Color = Red
+Habitat = Forest
+Shape = BipedalTail
+EggGroups = Humanlike
+StepsToHatch = 5120
+EffortPoints = 0,2,0,0,0,0
+Moves = 1,LEER,1,SCRATCH,6,FOCUSENERGY,12,PURSUIT,18,KARATECHOP
