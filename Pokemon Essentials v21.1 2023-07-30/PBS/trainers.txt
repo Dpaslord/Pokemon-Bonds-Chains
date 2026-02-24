@@ -149,3 +149,11 @@ LoseText = Aww, you beat me!
 Pokemon = CHIMCHAR,8
 	Shiny = yes
 Pokemon = SENTRET,6
+#-------------------------------
+[RIVAL_F,Sandra]
+LoseText = ¡No me lo puedo creer, me has ganado!
+Pokemon = CHARMANDER,5
+#-------------------------------
+[RIVAL_M,Gonzalo]
+LoseText = ¡No me lo puedo creer, me has ganado!
+Pokemon = CHARMANDER,5

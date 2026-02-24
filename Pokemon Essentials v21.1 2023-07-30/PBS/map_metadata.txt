@@ -102,8 +102,11 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[022]   # Foso Sombrio
+[022]   # Shadow Trench:
 Name = Foso Sombrio
+ShowArea = true
+MapPosition = 0,11,17
+MapSize = 0,
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -157,6 +160,13 @@ MapSize = 2,1101
 #-------------------------------
 [032]   # Route 1
 Name = Route 1
+ShowArea = true
+MapPosition = 0,12,17
+#-------------------------------
+[033]   # Hermit
+Name = Hermit
+ShowArea = true
+MapPosition = 0,14,17
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -211,6 +221,15 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
+[042]   # Route 2
+Name = Route 2
+ShowArea = true
+MapPosition = 0,14,15
+#-------------------------------
+[043]   # Trees
+Name = Trees
+MapPosition = 2,12,15
+#-------------------------------
 [044]   # Route 6
 Name = Route 6
 Outdoor = true
@@ -241,8 +260,10 @@ BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
 #-------------------------------
-[048]   # Entrada Ciudad
+[048]   # Entrance to Verdenta City
 Name = Entrada Ciudad
+ShowArea = true
+MapPosition = 0,15,15
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -408,3 +429,78 @@ BattleBack = city
 #-------------------------------
 [076]   # Arboles 1
 Name = Arboles 1
+#-------------------------------
+[077]   # Verdenta City
+Name = Verdenta City
+ShowArea = true
+MapPosition = 0,16,15
+#-------------------------------
+[081]   # Ruta 3
+Name = Ruta 3
+ShowArea = true
+MapPosition = 0,15,13
+#-------------------------------
+[082]   # Player's house 
+Name = Player's house
+MapPosition = 0,11,17
+#-------------------------------
+[083]   # Pokemon Lab
+Name = Pokemon Lab
+ShowArea = true
+MapPosition = 0,11,17
+#-------------------------------
+[084]   # Verdenta City Poke Center
+Name = Verdenta City Poke Center
+MapPosition = 0,17,15
+#-------------------------------
+[085]   # Verdenta City Mart
+Name = Verdenta City Mart
+MapPosition = 0,17,15
+#-------------------------------
+[086]   # Rival_M's house
+Name = Rival_M's house
+MapPosition = 0,11,17
+#-------------------------------
+[087]   # Hermit's house
+Name = Hermit's house
+MapPosition = 0,14,17
+#-------------------------------
+[088]   # Market Shadow Trench
+Name = Market Shadow Trench
+MapPosition = 0,11,17
+#-------------------------------
+[089]   # Shadow Trench store
+Name = Shadow Trench store
+MapPosition = 0,11,17
+#-------------------------------
+[090]   # Rival_F's house
+Name = Rival_F's house
+MapPosition = 0,11,17
+#-------------------------------
+[091]   # Shadow Trench School
+Name = Shadow Trench School
+MapPosition = 0,11,17
+#-------------------------------
+[092]   # Verdenta City Retirement Home
+Name = Verdenta City Retirement Home
+MapPosition = 0,17,16
+#-------------------------------
+[093]   # Community House Verdenta City
+Name = Community House Verdenta City
+MapPosition = 0,17,16
+#-------------------------------
+[094]   # Verdenta City Gym
+Name = Verdenta City Gym
+MapPosition = 0,16,15
+#-------------------------------
+[095]   # Underground entrance
+Name = Underground entrance
+MapPosition = 0,16,14
+#-------------------------------
+[096]   # Genetic Laboratory
+Name = Genetic Laboratory
+MapPosition = 0,17,14
+#-------------------------------
+[097]   # Verdenta City Library
+Name = Verdenta City Library
+MapPosition = 0,17,15
