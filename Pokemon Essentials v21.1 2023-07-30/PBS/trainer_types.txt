@@ -408,3 +408,17 @@ SkillLevel = 100
 IntroBGM = HGSS 117 Trainers_ Eyes Meet (Youngster)
 BattleBGM = ORAS 017 Battle! (Trainer Battle)
 VictoryBGM = ORAS 018 Victory! (Trainer Battle)
+#-------------------------------
+[RIVAL_FEM]
+Name = Rival
+Gender = Female
+BaseMoney = 36
+BattleBGM = Battle Trainer
+VictoryBGM = Battle victory trainer
+#-------------------------------
+[RIVAL_MASC]
+Name = Rival
+Gender = Male
+BaseMoney = 36
+BattleBGM = Battle Trainer
+VictoryBGM = Battle victory trainer
