@@ -193,16 +193,19 @@ Pokemon = VENOLASH,5
 LoseText = I will beat you in the next fight
 Pokemon = LEAFELIS,9
 Pokemon = PIDGEY,9
-Pokemon = DIGLETT,10
+Pokemon = CHIMCHAR,9
+	Shiny = yes
 #-------------------------------
 [RIVAL_M,Gonzalo,4]
 LoseText = I will beat you in the next fight
 Pokemon = FENECHO,9
 Pokemon = PIDGEY,9
-Pokemon = DIGLETT,10
+Pokemon = CHIMCHAR,9
+	Shiny = yes
 #-------------------------------
 [RIVAL_M,Gonzalo,5]
 LoseText = I will beat you in the next fight
 Pokemon = VENOLASH,9
 Pokemon = PIDGEY,9
-Pokemon = DIGLETT,10
+Pokemon = CHIMCHAR,9
+	Shiny = yes
