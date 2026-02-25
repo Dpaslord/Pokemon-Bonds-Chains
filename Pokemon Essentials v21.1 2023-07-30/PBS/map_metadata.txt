@@ -104,6 +104,7 @@ MapSize = 1,11
 #-------------------------------
 [022]   # Shadow Trench:
 Name = Foso Sombrio
+Outdoor = true
 ShowArea = true
 MapPosition = 0,11,17
 MapSize = 0,
@@ -432,6 +433,7 @@ Name = Arboles 1
 #-------------------------------
 [077]   # Verdenta City
 Name = Verdenta City
+Outdoor = true
 ShowArea = true
 MapPosition = 0,16,15
 #-------------------------------
