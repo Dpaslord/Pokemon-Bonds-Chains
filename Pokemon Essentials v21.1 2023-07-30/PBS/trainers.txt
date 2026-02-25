@@ -162,6 +162,21 @@ Pokemon = FENECHO,5
 LoseText = I guess I'll have to train harder
 Pokemon = VENOLASH,5
 #-------------------------------
+[RIVAL_F,Sandra,3]
+LoseText = How strong you've become!
+Pokemon = LEAFELIS,6
+Pokemon = RATTATA,5
+#-------------------------------
+[RIVAL_F,Sandra,4]
+LoseText = How strong you've become!
+Pokemon = FENECHO,6
+Pokemon = RATTATA,5
+#-------------------------------
+[RIVAL_F,Sandra,5]
+LoseText = How strong you've become!
+Pokemon = VENOLASH,6
+Pokemon = RATTATA,5
+#-------------------------------
 [RIVAL_M,Gonzalo]
 LoseText = I can't believe it, you've beaten me!
 Pokemon = LEAFELIS,5
@@ -173,3 +188,21 @@ Pokemon = FENECHO,5
 [RIVAL_M,Gonzalo,2]
 LoseText = I can't believe it, you've beaten me!
 Pokemon = VENOLASH,5
+#-------------------------------
+[RIVAL_M,Gonzalo,3]
+LoseText = I will beat you in the next fight
+Pokemon = LEAFELIS,9
+Pokemon = PIDGEY,9
+Pokemon = DIGLETT,10
+#-------------------------------
+[RIVAL_M,Gonzalo,4]
+LoseText = I will beat you in the next fight
+Pokemon = FENECHO,9
+Pokemon = PIDGEY,9
+Pokemon = DIGLETT,10
+#-------------------------------
+[RIVAL_M,Gonzalo,5]
+LoseText = I will beat you in the next fight
+Pokemon = VENOLASH,9
+Pokemon = PIDGEY,9
+Pokemon = DIGLETT,10
