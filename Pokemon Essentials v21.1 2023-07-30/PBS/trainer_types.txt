@@ -413,15 +413,15 @@ VictoryBGM = ORAS 018 Victory! (Trainer Battle)
 Name = Rival
 Gender = Female
 BaseMoney = 36
-BattleBGM = Battle Trainer
-VictoryBGM = Battle victory trainer
+BattleBGM = ORAS 017 Battle! (Trainer Battle)
+VictoryBGM = ORAS 018 Victory! (Trainer Battle)
 #-------------------------------
 [RIVAL_M]
 Name = Rival
 Gender = Male
 BaseMoney = 36
-BattleBGM = Battle Trainer
-VictoryBGM = Battle victory trainer
+BattleBGM = ORAS 017 Battle! (Trainer Battle)
+VictoryBGM = ORAS 018 Victory! (Trainer Battle)
 #-------------------------------
 [POKEMONTRAINER_M]
 Name = Pokémon Trainer

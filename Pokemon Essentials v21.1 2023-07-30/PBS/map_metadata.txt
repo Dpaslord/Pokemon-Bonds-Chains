@@ -103,7 +103,7 @@ BattleBack = field
 MapSize = 1,11
 #-------------------------------
 [022]   # Shadow Trench:
-Name = Foso Sombrio
+Name = Shadow Trench
 ShowArea = true
 MapPosition = 0,11,17
 MapSize = 0,

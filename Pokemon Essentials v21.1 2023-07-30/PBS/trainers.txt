@@ -151,9 +151,25 @@ Pokemon = CHIMCHAR,8
 Pokemon = SENTRET,6
 #-------------------------------
 [RIVAL_F,Sandra]
-LoseText = ¡No me lo puedo creer, me has ganado!
-Pokemon = CHARMANDER,5
+LoseText = I guess I'll have to train harder
+Pokemon = LEAFELIS,5
+#-------------------------------
+[RIVAL_F,Sandra,1]
+LoseText = I guess I'll have to train harder
+Pokemon = FENECHO,5
+#-------------------------------
+[RIVAL_F,Sandra,2]
+LoseText = I guess I'll have to train harder
+Pokemon = VENOLASH,5
 #-------------------------------
 [RIVAL_M,Gonzalo]
-LoseText = ¡No me lo puedo creer, me has ganado!
-Pokemon = CHARMANDER,5
+LoseText = I can't believe it, you've beaten me!
+Pokemon = LEAFELIS,5
+#-------------------------------
+[RIVAL_M,Gonzalo,1]
+LoseText = I can't believe it, you've beaten me!
+Pokemon = FENECHO,5
+#-------------------------------
+[RIVAL_M,Gonzalo,2]
+LoseText = I can't believe it, you've beaten me!
+Pokemon = VENOLASH,5
