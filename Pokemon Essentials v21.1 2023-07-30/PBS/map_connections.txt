@@ -44,38 +44,42 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
-# Route 2 (42) - Entrance to Verdenta City (48)
-42,East,18,48,West,0
 # Trees (43) - Route 2 (42)
 43,East,0,42,West,18
 # Ruta 3 (81) - Route 2 (42)
 81,West,52,42,East,0
+# Entrance to Verdenta City (48) - Route 2 (42)
+48,West,0,42,East,18
+# Trees 5 (98) - Route 2 (42)
+98,West,0,42,East,48
 # Ruta 3 (81) - Trees (43)
 81,South,0,43,North,61
 # Route 7 (47) - Battle Frontier (52)
 47,East,8,52,West,0
-# Entrance to Verdenta City (48) - Verdenta City (77)
-48,East,0,77,West,6
-# Ruta 3 (81) - Entrance to Verdenta City (48)
-81,South,0,48,North,0
+# Entrance to Verdenta City (48) - Ruta 3 (81)
+48,North,0,81,South,0
+# Verdenta City (77) - Entrance to Verdenta City (48)
+77,West,6,48,East,0
 # Arboles 1 (76) - Entrance to Verdenta City (48)
 76,West,0,48,East,44
 # Arboles 2 (78) - Entrance to Verdenta City (48)
 78,North,0,48,South,30
 # Arboles 4 (80) - Entrance to Verdenta City (48)
 80,West,21,48,East,0
+# Trees 5 (98) - Entrance to Verdenta City (48)
+98,North,0,48,South,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Arboles 1 (76) - Verdenta City (77)
-76,North,0,77,South,0
 # Arboles 1 (76) - Ruta 3 (81)
 76,West,0,81,East,114
+# Arboles 1 (76) - Verdenta City (77)
+76,North,0,77,South,0
 # Arboles 2 (78) - Arboles 1 (76)
 78,East,14,76,West,0
 # Arboles 3 (79) - Arboles 1 (76)
 79,West,50,76,East,0
-# Ruta 3 (81) - Verdenta City (77)
-81,East,64,77,West,0
+# Verdenta City (77) - Ruta 3 (81)
+77,West,0,81,East,64
 # Arboles 2 (78) - Verdenta City (77)
 78,East,0,77,West,36
 # Arboles 4 (80) - Verdenta City (77)
