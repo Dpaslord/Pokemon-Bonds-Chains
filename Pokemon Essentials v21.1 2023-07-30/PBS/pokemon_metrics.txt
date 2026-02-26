@@ -4657,10 +4657,10 @@ ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [GRIMAPE]
-BackSprite = 0,6
-FrontSprite = 0,5
+BackSprite = 0,-3
+FrontSprite = -4,5
 ShadowX = -3
-ShadowSize = 2
+ShadowSize = 3
 #-------------------------------
 [GRIMMSNARL]
 BackSprite = 0,0
@@ -4717,9 +4717,9 @@ ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [LEAFELIS]
-BackSprite = 0,5
+BackSprite = 2,-1
 FrontSprite = 0,13
-ShadowX = 0
+ShadowX = 1
 ShadowSize = 2
 #-------------------------------
 [MAGIBONE]
@@ -5025,5 +5025,41 @@ ShadowSize = 2
 [VENOLASH]
 BackSprite = 0,-3
 FrontSprite = 0,3
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[ACORUB]
+BackSprite = 10,-2
+FrontSprite = 0,16
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[HATTREM]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[HELIOLISK]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[HONEDGE]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[ZERAORA]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[ZEPHIRP]
+BackSprite = 0,-3
+FrontSprite = 0,0
 ShadowX = 0
 ShadowSize = 2

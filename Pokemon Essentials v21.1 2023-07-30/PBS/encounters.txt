@@ -11,8 +11,8 @@ Land,21
     10,WEEDLE,3,4
     5,PIKACHU,3,4
 Water,5
-    5,GYARADOS,20
     95,MAGIKARP,5
+    5,GYARADOS,20
 #-------------------------------
 [042] # Route 2
 Land,21
@@ -30,8 +30,10 @@ Water,2
 #-------------------------------
 [077] # Verdenta City
 Land,21
-    20,BULBASAUR,5
-    20,CHARMANDER,5
-    20,SQUIRTLE,5
+    20,SPIRALAMP,6,9
+    20,LEAFELIS,6,9
+    20,VENOLASH,6,9
+    10,GRIMAPE,10
+    20,FENECHO,6,9
 Water,2
     20,MAGIKARP,5

@@ -23099,8 +23099,8 @@ Weight = 6.0
 Color = Green
 Shape = Quadruped
 Habitat = Forest
-Category = ???
-Pokedex = ???
+Category = Leaf Feline
+Pokedex = It glides through the forests in complete silence. The leaves on its body release a scent that soothes its allies.
 #-------------------------------
 [FENECHO]
 Name = Fenecho
@@ -23121,8 +23121,8 @@ Weight = 8.5
 Color = Red
 Shape = Quadruped
 Habitat = Grassland
-Category = ???
-Pokedex = ???
+Category = Fire Fox
+Pokedex = It hunts at nightfall. It uses the dark flames on its tail to disorient its prey before attacking from the shadows.
 #-------------------------------
 [VENOLASH]
 Name = Venolash
@@ -23143,8 +23143,8 @@ Weight = 12.0
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = ???
-Pokedex = ???
+Category = Toxic Reptile
+Pokedex = Its body secretes a powerful toxin. A single brush against its moist skin is enough to cause severe poisoning.
 #-------------------------------
 [MAGIBONE]
 Name = Magibone
@@ -23165,8 +23165,8 @@ Weight = 10.0
 Color = Blue
 Shape = Finned
 Habitat = WatersEdge
-Category = ???
-Pokedex = ???
+Category = Bone Fish
+Pokedex = A ghost fish that wanders the seas searching for the remains of its former body. Its cry echoes on stormy nights.
 Evolutions = GYARABONE,Level,20
 #-------------------------------
 [GYARABONE]
@@ -23189,8 +23189,8 @@ Weight = 235.0
 Color = White
 Shape = Serpentine
 Habitat = WatersEdge
-Category = ???
-Pokedex = ???
+Category = Skeletal Dragon
+Pokedex = Its roar freezes the water around it. It is said to be the manifestation of the fury of perished marine Pokémon.
 #-------------------------------
 [SPIRALAMP]
 Name = Spiralamp
@@ -23211,8 +23211,8 @@ Weight = 15.0
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = ???
-Pokedex = ???
+Category = Spiral Tail
+Pokedex = It stores a large amount of static electricity in its spiral-shaped tail, which glows brightly in the dark.
 #-------------------------------
 [GRIMAPE]
 Name = Grimape
@@ -23233,5 +23233,49 @@ Weight = 28.0
 Color = Red
 Shape = BipedalTail
 Habitat = Forest
-Category = ???
-Pokedex = ???
+Category = Fierce Ape
+Pokedex = It attacks its opponents with a mace made of hardened bones. It knows no mercy and will fight until it drops from exhaustion.
+#-------------------------------
+[ACORUB]
+Name = Acorub
+Types = BUG,GRASS
+BaseStats = 40,45,50,30,35,35
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 42
+EVs = DEFENSE,1
+CatchRate = 255
+Happiness = 70
+Abilities = SWARM,SHELLARMOR
+Moves = 1,TACKLE,1,STRINGSHOT,5,HARDEN,8,BUGBITE,12,ABSORB,15,PROTECT
+EggGroups = Bug
+HatchSteps = 1
+Height = 0.3
+Weight = 3.2
+Color = Green
+Shape = Insectoid
+Habitat = Forest
+Category = Acorn Larva
+Pokedex = It uses a broken acorn shell to protect its head. The rolled-up leaf on its back serves as a cozy sleeping bag when night falls.
+#-------------------------------
+[ZEPHIRP]
+Name = Zephirp
+Types = NORMAL,FLYING
+BaseStats = 40,45,35,60,40,40
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 55
+EVs = SPEED,1
+CatchRate = 255
+Happiness = 70
+Abilities = KEENEYE,TANGLEDFEET
+Moves = 1,TACKLE,1,GROWL,5,GUST,9,QUICKATTACK,13,AERIALACE,17,ROOST
+EggGroups = Flying
+HatchSteps = 1
+Height = 0.3
+Weight = 1.8
+Color = Blue
+Shape = Winged
+Habitat = Grassland
+Category = Cloud Bird
+Pokedex = It is too young to fly long distances, so it bounces along the ground. Its fluffy plumage catches the breeze, allowing it to glide effortlessly.
