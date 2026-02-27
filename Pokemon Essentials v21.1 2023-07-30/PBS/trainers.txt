@@ -13,13 +13,15 @@ Pokemon = GEODUDE,12
     AbilityIndex = 0
     Gender = male
     IV = 20,20,20,20,20,20
+Pokemon = SUDOWOODO,13
+    IV = 20,20,20,20,20,20
 Pokemon = ONIX,14
     Name = Rocky
     Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
     AbilityIndex = 0
     Item = SITRUSBERRY
     Gender = male
-    IV = 20,20,20,20,20,20
+    IV = 31,31,31,31,31,20
     Shiny = true
     Ball = HEAVYBALL
 #-------------------------------
@@ -209,3 +211,8 @@ Pokemon = VENOLASH,9
 Pokemon = PIDGEY,9
 Pokemon = CHIMCHAR,9
 	Shiny = yes
+#-------------------------------
+[HIKER,Hector]
+LoseText = A very good battle, indeed!
+Pokemon = CRANIDOS,10
+Pokemon = SHIELDON,9
