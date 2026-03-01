@@ -5,7 +5,7 @@ Bienvenido al repositorio oficial de **Pokémon Bonds and Chains**, un proyecto 
 Este fangame explora una nueva región y una historia original centrada en la dualidad de las filosofías de los entrenadores: los vínculos basados en la amistad (Bonds) frente al uso de las criaturas como herramientas de control (Chains).
 
 ## Características Principales
-* **Nueva Pokédex:** Criaturas originales (Fakemon) como Acorub, Zephirp y Pebblepout integradas con estilo GBA/DS.
+* **Nueva Pokédex:** Criaturas originales (Fakemon) como Fenecho, Gyarabone, Zephirp y Pebblepout, etc integradas con estilo GBA/DS.
 * **Sistema de Vínculo (Bond Level):** Tus acciones en combate afectan la moral de tu equipo, otorgando bonificaciones de golpe crítico si mantienes un vínculo alto.
 * **Economía Dinámica:** El mundo reacciona a tu progreso. Conseguir medallas de gimnasio te otorga descuentos escalonados en todas las tiendas.
 * **Sistema de Tiempo Acelerado:** Ciclo de día y noche personalizado e independiente del reloj del PC.
