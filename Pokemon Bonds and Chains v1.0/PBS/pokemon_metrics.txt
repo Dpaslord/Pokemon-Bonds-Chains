@@ -4897,7 +4897,7 @@ ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [SPIRALAMP]
-BackSprite = 0,0
+BackSprite = 2,1
 FrontSprite = 0,14
 ShadowX = -5
 ShadowSize = 3
