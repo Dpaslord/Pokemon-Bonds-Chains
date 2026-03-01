@@ -4723,7 +4723,7 @@ ShadowX = 1
 ShadowSize = 2
 #-------------------------------
 [MAGIBONE]
-BackSprite = 0,0
+BackSprite = -13,3
 FrontSprite = 0,2
 ShadowX = 0
 ShadowSize = 2
@@ -5139,5 +5139,17 @@ ShadowSize = 2
 [PEBBLEPOUT]
 BackSprite = -4,-2
 FrontSprite = -5,13
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[LITTEN]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[LUNALA]
+BackSprite = 0,0
+FrontSprite = 0,0
 ShadowX = 0
 ShadowSize = 2
