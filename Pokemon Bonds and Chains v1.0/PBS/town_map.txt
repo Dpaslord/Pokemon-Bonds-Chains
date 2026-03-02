@@ -20,6 +20,7 @@ Point = 17,16,Verdenta City,,77,30,17
 Point = 15,13,Route 3
 Point = 15,12,Route 3
 Point = 15,11,Route 3
+Point = 15,15,Entrance to Verdenta City,
 #-------------------------------
 [1]
 Name = Tiall
